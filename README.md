@@ -7,7 +7,7 @@
 
   •📝 I'm publishing random articles on https://medium.com/@jankipanchal13
   
-  •📫 How to reach me: jankipanchal13@gmail.com
+  •📫 How to reach me: https://www.linkedin.com/in/janki-panchal 
   
   •⚡ Fun fact: Pringles aren't actually potato chips
 
