@@ -1,7 +1,7 @@
   ### Hi 👋, I'm Janki Panchal
    I'm here with a bit of madness and curiousness!
 
-  •🔭 I’m currently contributing to TechCrew®GroupOfComapnies as a IT Business Analyst.
+  •🔭 I’m currently contributing to TechCrew®GroupOfComapnies as a IT Business Analyst. And to The Spark Foundation as a Data Science Intern.
 
   •🌱 I’m currently learning Python & R for Data Science.
 
