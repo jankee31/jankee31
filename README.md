@@ -18,7 +18,7 @@
   
   • 📫 How to reach me: jankipanchal13@gmail.com
 
-  • ⚡ Fun fact🌐: Pringles aren't actually potato chips
+  • 🌐 Fun fact: Pringles aren't actually potato chips
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jankee31&show_icons=true&theme=radical)
 
