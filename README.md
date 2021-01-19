@@ -10,16 +10,13 @@
 
  <img src="https://raw.githubusercontent.com/jankee31/jankee31/master/data.gif" width="1000px">
 
-  •🔭 I’m currently contributing as a IT Business Analyst.
+  • 🔭 I’m currently contributing as a IT Business Analyst.
 
-  •🌱 I’m currently learning Python for Data Science. 
+  • 🌱 I’m currently learning Python for Data Science. 
   
-  •🦄 I am always open to collaborating and experimenting on projects and innovative ideas. 
+  • 📫 How to reach me: jankipanchal13@gmail.com
 
-  
-   
-
-  •⚡ Fun fact: Pringles aren't actually potato chips
+  • ⚡ Fun fact: Pringles aren't actually potato chips
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jankee31&show_icons=true&theme=radical)
 
