@@ -1,6 +1,5 @@
   ## Hey there! <img src="https://raw.githubusercontent.com/jankee31/jankee31/master/wave2.gif" width="28px">
-  ## I'm Janki and I'm currently in a process to become Data Scientist <img src="https://raw.githubusercontent.com/jankee31/jankee31/master/intro.gif" width="30px">
-
+  ### I'm Janki.
   <img src="https://raw.githubusercontent.com/jankee31/jankee31/master/data.gif" width="1000px">
   •🔭 I’m currently contributing to TechCrew®GroupOfComapnies as a IT Business Analyst. And to The Spark Foundation as a Data Science Intern.
 
