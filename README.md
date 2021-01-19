@@ -1,12 +1,15 @@
   ## Hey there! <img src="https://raw.githubusercontent.com/jankee31/jankee31/master/wave2.gif" width="28px">
   ### I'm Janki.
   <img src="https://raw.githubusercontent.com/jankee31/jankee31/master/data.gif" width="1000px">
-  🔭 I’m currently contributing as a IT Business Analyst.
+  •🔭 I’m currently contributing as a IT Business Analyst.
 
-  🌱 I’m currently learning Python for Data Science. 
+  •🌱 I’m currently learning Python for Data Science. 
   
-  🦄 I am always open to collaborating on projects and innovative ideas. Find out more about me & feel free to connect with me here:
-  [![Linkedin Badge](https://img.shields.io/badge/-janki-panchal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/janki-panchal/)](https://www.linkedin.com/in/janki-panchal/)
+  •🦄 I am always open to collaborating on projects and innovative ideas. 
+      Find out more about me & feel free to connect with me here:
+     <a href="https://www.linkedin.com/in/janki-panchal/">
+     <img align="left" alt="Janki's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+     </a>
 
   •⚡ Fun fact: Pringles aren't actually potato chips
 
