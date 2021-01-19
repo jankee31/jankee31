@@ -5,7 +5,7 @@
  </a>
 
  <a href="https://medium.com/@jankipanchal13">
-    <img align="left" alt="Janki's Medium" width="28px" src="https://raw.githubusercontent.com/jankee31/jankee31/master/Medium.png" />
+    <img align="left" alt="Janki's Medium" width="85px" src="https://raw.githubusercontent.com/jankee31/jankee31/master/Medium.png" />
  </a>
 
  <a href="https://open.spotify.com/user/31oa27s7v7jbd7sxmj3oy5xjvgba?si=zO--ug1kRl6LCqvPoGqhJA">
