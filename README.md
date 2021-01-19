@@ -1,11 +1,12 @@
 ### Hey there! <img src="https://raw.githubusercontent.com/jankee31/jankee31/master/wave2.gif" width="28px">
-### I'm Janki <img src="https://raw.githubusercontent.com/jankee31/jankee31/master/intro.gif" width="28px" height="35px">
+### I'm Janki <img src="https://raw.githubusercontent.com/jankee31/jankee31/master/intro1.gif" width="15px">
  <a href="https://www.linkedin.com/in/janki-panchal/">
     <img align="left" alt="Janki's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
  </a>
  <a href="https://open.spotify.com/user/31oa27s7v7jbd7sxmj3oy5xjvgba?si=zO--ug1kRl6LCqvPoGqhJA">
     <img align="left" alt="Janki's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
  </a>
+
 
  <img src="https://raw.githubusercontent.com/jankee31/jankee31/master/data.gif" width="1000px">
 
