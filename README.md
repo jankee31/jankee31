@@ -6,10 +6,12 @@
   •🌱 I’m currently learning Python for Data Science. 
   
   •🦄 I am always open to collaborating on projects and innovative ideas. 
+
       Find out more about me & feel free to connect with me here:
-     <a href="https://www.linkedin.com/in/janki-panchal/">
-     <img align="left" alt="Janki's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-     </a>
+
+      <a href="https://www.linkedin.com/in/janki-panchal/">
+      <img align="left" alt="Janki's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+      </a>
 
   •⚡ Fun fact: Pringles aren't actually potato chips
 
