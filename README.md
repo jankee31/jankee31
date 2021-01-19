@@ -3,9 +3,19 @@
  <a href="https://www.linkedin.com/in/janki-panchal/">
     <img align="left" alt="Janki's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
  </a>
+
+ <a href="https://www.hackerrank.com/jankipanchal13?hr_r=1">
+    <img align="left" alt="Janki's HackerRank" width="28px" src="https://raw.githubusercontent.com/jankee31/jankee31/master/HackerRank_logo.png" />
+ </a>
+
+ <a href="https://medium.com/@jankipanchal13">
+    <img align="left" alt="Janki's Medium" width="28px" src="https://raw.githubusercontent.com/jankee31/jankee31/master/Medium.png" />
+ </a>
+
  <a href="https://open.spotify.com/user/31oa27s7v7jbd7sxmj3oy5xjvgba?si=zO--ug1kRl6LCqvPoGqhJA">
     <img align="left" alt="Janki's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
  </a>
+ 
 
  <br/>
  
