@@ -7,6 +7,8 @@
     <img align="left" alt="Janki's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
  </a>
 
+ <br/>
+ 
 
  <img src="https://raw.githubusercontent.com/jankee31/jankee31/master/data.gif" width="1000px">
 
@@ -20,6 +22,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jankee31&show_icons=true&theme=radical)
 
+![](https://visitor-badge.glitch.me/badge?page_id=jankee31.jankee31)
 
 <!--
 **jankee31/jankee31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
