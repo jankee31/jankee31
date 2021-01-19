@@ -4,10 +4,6 @@
     <img align="left" alt="Janki's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
  </a>
 
- <a href="https://www.hackerrank.com/jankipanchal13?hr_r=1">
-    <img align="left" alt="Janki's HackerRank" width="28px" src="https://raw.githubusercontent.com/jankee31/jankee31/master/HackerRank_logo.png" />
- </a>
-
  <a href="https://medium.com/@jankipanchal13">
     <img align="left" alt="Janki's Medium" width="28px" src="https://raw.githubusercontent.com/jankee31/jankee31/master/Medium.png" />
  </a>
