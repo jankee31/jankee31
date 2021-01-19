@@ -1,4 +1,4 @@
-  ### Hey there!<img src="https://raw.githubusercontent.com/jankee31/jankee31/master/wave.gif" width="40px">
+  ## Hey there! <img src="https://raw.githubusercontent.com/jankee31/jankee31/master/wave.gif" width="35px" height="35px">
   I'm here with a bit of madness and curiousness!
 
 
