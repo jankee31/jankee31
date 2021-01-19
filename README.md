@@ -49,6 +49,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=jankee31.jankee31)
 
+#### Feel free to drop a ⭐ if you like any of my repo<img src="https://raw.githubusercontent.com/jankee31/jankee31/master/intro.gif" width="70px">
 
 
 <!--
