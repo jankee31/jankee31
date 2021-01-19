@@ -1,4 +1,4 @@
-  ### Hi! <img src="https://raw.githubusercontent.com/jankee31/jankee31/master/wave.gif" width="30px">, I'm Janki Panchal
+  ### Hey there!  <img src="https://raw.githubusercontent.com/jankee31/jankee31/master/wave.gif" width="30px">
   I'm here with a bit of madness and curiousness!
 
   •🔭 I’m currently contributing to TechCrew®GroupOfComapnies as a IT Business Analyst. And to The Spark Foundation as a Data Science Intern.
