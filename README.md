@@ -30,7 +30,7 @@
 
   • 🌐 Fun fact: Pringles aren't actually potato chips.
 
-#### Languages🚀
+#### Languages & Tools🚀:
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![SQL](https://img.shields.io/badge/-SQL-white?style=flat-square&logo=sql)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-green?style=flat-square&logo=microsoft-excel)
