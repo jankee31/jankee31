@@ -44,11 +44,8 @@
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![C](https://img.shields.io/badge/-c-black?style=flat-square&logo=c)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jankee31&show_icons=true&theme=radical)
-
 ![](https://visitor-badge.glitch.me/badge?page_id=jankee31.jankee31)
-
 #### Feel free to drop a ⭐
 <img src="https://raw.githubusercontent.com/jankee31/jankee31/master/intro.gif" width="90px" align="center">
 
