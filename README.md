@@ -33,7 +33,7 @@
 #### Languages & Tools🚀:
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![SQL](https://img.shields.io/badge/-SQL-white?style=flat-square&logo=sql)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-green?style=flat-square&logo=microsoft-excel)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-1D6F42?style=flat-square&logo=microsoft-excel)
 ![Tableau](https://img.shields.io/badge/-Tableau-white?style=flat-square&logo=tableau)
 ![Power Bi](https://img.shields.io/badge/-Power%20Bi-yellow?style=flat-square&logo=power-bi)
 ![R](https://img.shields.io/badge/-R-blue?style=flat-square&logo=R)
