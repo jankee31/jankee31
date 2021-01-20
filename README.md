@@ -17,10 +17,10 @@
  </a>
  
 
- <br/>
+ <br>
  
 
- <img src="https://raw.githubusercontent.com/jankee31/jankee31/master/data.gif" width="1000px">
+ <img src="https://raw.githubusercontent.com/jankee31/jankee31/master/data.gif" width="1000px"> </br>
 
   #### 🔭 I’m currently contributing as a IT Business Analyst.
 
