@@ -1,5 +1,5 @@
-### Hey there!<img src="https://raw.githubusercontent.com/jankee31/jankee31/master/wave2.gif" width="28px">
-### I'm Janki(She/Her)<img src="https://raw.githubusercontent.com/jankee31/jankee31/master/intro1.gif" width="25px">
+## Hey there!<img src="https://raw.githubusercontent.com/jankee31/jankee31/master/wave2.gif" width="28px">
+### I am Janki(She/Her)<img src="https://raw.githubusercontent.com/jankee31/jankee31/master/intro1.gif" width="25px">
  <a href="https://www.linkedin.com/in/janki-panchal/">
     <img align="left" alt="Janki's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
  </a>
@@ -22,15 +22,15 @@
 
  <img src="https://raw.githubusercontent.com/jankee31/jankee31/master/data.gif" width="1000px">
 
-  • 🔭 I’m currently contributing as a IT Business Analyst.
+  #### 🔭 I’m currently contributing as a IT Business Analyst.
 
-  • 🌱 I’m currently learning Python for Data Science. 
+  #### 🌱 I’m currently learning Python for Data Science. 
   
-  • 📫 How to reach me: jankipanchal13@gmail.com
+  #### 📫 How to reach me: jankipanchal13@gmail.com
 
-  • 🌐 Fun fact: Pringles aren't actually potato chips.
+  #### 🌐 Fun fact: Pringles aren't actually potato chips.
 
-#### Languages & Tools🚀:
+### Languages & Tools🚀:
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![SQL](https://img.shields.io/badge/-SQL-white?style=flat-square&logo=sql)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-1D6F42?style=flat-square&logo=microsoft-excel)
