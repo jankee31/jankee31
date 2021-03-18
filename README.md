@@ -22,13 +22,11 @@
 
  <img src="https://raw.githubusercontent.com/jankee31/jankee31/master/data.gif" width="1500px"> </br>
 
-  #### 🔭 I’m currently contributing as a IT Business Analyst.
-
-  #### 🌱 I’m currently learning Python for Data Science. 
+  #### 🎯 Currently in a process to become aspiring data scientist 
   
   #### 📫 How to reach me: jankipanchal13@gmail.com
 
-  #### 🌐 Fun fact: Pringles aren't actually potato chips.
+  #### 🌐 Fun fact: Pringles aren't actually potato chips👀
 
 ### Languages & Tools🚀:
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
