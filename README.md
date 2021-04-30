@@ -24,20 +24,30 @@
 
   #### 🌐 Fun fact: Pringles aren't actually potato chips👀
 
-### Languages & Tools🚀:
+### Languages:
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![SQL](https://img.shields.io/badge/-SQL-white?style=flat-square&logo=sql)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-1D6F42?style=flat-square&logo=microsoft-excel)
-![Tableau](https://img.shields.io/badge/-Tableau-white?style=flat-square&logo=tableau)
-![Power Bi](https://img.shields.io/badge/-Power%20Bi-yellow?style=flat-square&logo=power-bi)
-![R](https://img.shields.io/badge/-R-blue?style=flat-square&logo=R)
-![Jupyter](https://img.shields.io/badge/-Jupyter-white?style=flat-square&logo=jupyter)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![C#](https://img.shields.io/badge/-c#-black?style=flat-square&logo=c#)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![C](https://img.shields.io/badge/-c-black?style=flat-square&logo=c)
+
+### Tools:
+![Jupyter](https://img.shields.io/badge/-Jupyter-white?style=flat-square&logo=jupyter)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-1D6F42?style=flat-square&logo=microsoft-excel)
+![Tableau](https://img.shields.io/badge/-Tableau-white?style=flat-square&logo=tableau)
+![Power Bi](https://img.shields.io/badge/-Power%20Bi-yellow?style=flat-square&logo=power-bi)
+![R Studio](https://img.shields.io/badge/-R%20Studio-blue?style=flat-square&logo=R)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQl%20Sever-white?style=flat-square&logo=microsoft-sql-server)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0078d7?style=flat-square)
+![Visual Code](https://img.shields.io/badge/-Visual%20Code-0078d7?style=flat-square)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+### Cloud Skills:
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jankee31&show_icons=true&theme=radical)
 ![](https://visitor-badge.glitch.me/badge?page_id=jankee31.jankee31)
