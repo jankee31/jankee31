@@ -40,10 +40,10 @@
 ![Tableau](https://img.shields.io/badge/-Tableau-white?style=flat-square&logo=tableau)
 ![Power Bi](https://img.shields.io/badge/-Power%20Bi-yellow?style=flat-square&logo=power-bi)
 ![R Studio](https://img.shields.io/badge/-R%20Studio-blue?style=flat-square&logo=R)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQl%20Sever-black?style=flat-square&logo=microsoft-sql-server)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQl%20Sever-white?style=flat-square&logo=microsoft-sql-server)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-purple?style=flat-square)
 ![Visual Code](https://img.shields.io/badge/-Visual%20Code-blue?style=flat-square)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 ### Cloud Skills:
 
