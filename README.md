@@ -25,7 +25,7 @@
   #### 🌐 Fun fact: Pringles aren't actually potato chips👀
 
 ### Technical Stack:
-![Python](https://img.shields.io/badge/-Python-black?style=circle&logo=Python)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=sql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -46,8 +46,8 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 ### Cloud Skills:
-![Google Cloud Platform](https://img.shields.io/badge/-Google%20Cloud%20Platform-white?style=flat-square&logo=gcp)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-white?style=flat-square&logo=azure)
+![Google Cloud Platform](https://img.shields.io/badge/-Google%20Cloud%20Platform-white?style=flat-square&logo=google-cloud-platform)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-white?style=flat-square&logo=microsoft-azure)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jankee31&show_icons=true&theme=radical)
 ![](https://visitor-badge.glitch.me/badge?page_id=jankee31.jankee31)
