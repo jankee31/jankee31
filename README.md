@@ -24,7 +24,7 @@
 
   #### 🌐 Fun fact: Pringles aren't actually potato chips👀
 
-### Technical Stack:
+### Technical Stack🚀:
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-plastic&logo=Python)
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-plastic&logo=sql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-plastic&logo=mysql)
@@ -34,7 +34,7 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-plastic&logo=c)
 ![C](https://img.shields.io/badge/-c-black?style=flat-plastic&logo=c)
 
-### Tools:
+### Tools📉:
 ![Jupyter](https://img.shields.io/badge/-Jupyter-white?style=flat-plastic&logo=jupyter)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-1D6F42?style=flat-plastic&logo=microsoft-excel)
 ![Tableau](https://img.shields.io/badge/-Tableau-white?style=flat-plastic&logo=tableau)
@@ -45,7 +45,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-blue?style=flat-plastic&logo=visual-studio-code)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-plastic&logo=git)
 
-### Cloud Skills:
+### Cloud Skills☁️:
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-white?style=flat-plastic&logo=google-cloud)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-white?style=flat-plastic&logo=microsoft-azure)
 
