@@ -25,7 +25,7 @@
   #### 🌐 Fun fact: Pringles aren't actually potato chips👀
 
 ### Technical Stack:
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Python](https://img.shields.io/badge/-Python-black?style=Circle-round&logo=Python)
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=sql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
