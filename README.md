@@ -24,9 +24,9 @@
 
   #### 🌐 Fun fact: Pringles aren't actually potato chips👀
 
-### Languages:
+### Technical Stack:
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![SQL](https://img.shields.io/badge/-SQL-white?style=flat-square&logo=sql)
+![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=sql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
@@ -40,9 +40,9 @@
 ![Tableau](https://img.shields.io/badge/-Tableau-white?style=flat-square&logo=tableau)
 ![Power Bi](https://img.shields.io/badge/-Power%20Bi-yellow?style=flat-square&logo=power-bi)
 ![R Studio](https://img.shields.io/badge/-R%20Studio-blue?style=flat-square&logo=R)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQl%20Sever-white?style=flat-square&logo=microsoft-sql-server)
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-purple?style=flat-square)
-![Visual Code](https://img.shields.io/badge/-Visual%20Code-blue?style=flat-square)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQl%20Sever-orange?style=flat-square&logo=microsoft-sql-server)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-white?style=flat-square&logo=visual-studio)
+![Visual Code](https://img.shields.io/badge/-Visual%20Code-black?style=flat-square&logo=visual-code)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 ### Cloud Skills:
