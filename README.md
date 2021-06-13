@@ -24,6 +24,7 @@
 
   #### 🌐 Fun fact: Pringles aren't actually potato chips👀
 
+
 ### Technical Stack🚀:
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-plastic&logo=Python)
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-plastic&logo=sql)
@@ -49,11 +50,12 @@
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-white?style=flat-plastic&logo=google-cloud)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-white?style=flat-plastic&logo=microsoft-azure)
 
+<!--
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jankee31&show_icons=true&theme=radical)
 ![](https://visitor-badge.glitch.me/badge?page_id=jankee31.jankee31)
 #### Feel free to drop a ⭐
 <img src="https://raw.githubusercontent.com/jankee31/jankee31/master/intro.gif" width="90px" align="center">
-
+-->
 
 <!--
 **jankee31/jankee31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
