@@ -6,10 +6,6 @@
     <img align="left" alt="Janki's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
  </a>
 
- <a href="https://open.spotify.com/user/31oa27s7v7jbd7sxmj3oy5xjvgba?si=zO--ug1kRl6LCqvPoGqhJA">
-    <img align="left" alt="Janki's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
- </a>
-
  <a href="https://instagram.com/foodtalesbyjp?igshid=1128opz0yfu8f">
     <img align="left" alt="Janki's Food account" width="25px" src="https://raw.githubusercontent.com/jankee31/jankee31/master/Instagram.png" />
  </a>
