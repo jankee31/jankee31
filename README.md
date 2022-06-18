@@ -1,27 +1,12 @@
-## Hey there!<img src="https://raw.githubusercontent.com/jankee31/jankee31/master/wave2.gif" width="28px">
-### I am Janki(She/Her)<img src="https://raw.githubusercontent.com/jankee31/jankee31/master/intro1.gif" width="25px">
 
-#### Let's Connect✨⤵️
- <a href="https://www.linkedin.com/in/janki-panchal/">
-    <img align="left" alt="Janki's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
- </a>
-
- <a href="https://instagram.com/foodtalesbyjp?igshid=1128opz0yfu8f">
-    <img align="left" alt="Janki's Food account" width="25px" src="https://raw.githubusercontent.com/jankee31/jankee31/master/Instagram.png" />
- </a>
  
 
- <br>
- 
 
- <img src="https://raw.githubusercontent.com/jankee31/jankee31/master/data.gif" width="1500px"> </br>
-<!--
   #### 🎯 Currently in a process to become aspiring data scientist 
   
   #### 📫 How to reach me: jankipanchal13@gmail.com
 
   #### 🌐 Fun fact: Pringles aren't actually potato chips👀
--->
 
 ### Technical Stack🚀:
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-plastic&logo=Python)
