@@ -2,7 +2,7 @@
  
 
 
-  #### 🎯 Currently in a process to become aspiring data scientist 
+  #### 🎯 Data Analytics & Product Management Professional
   
   #### 📫 How to reach me: jankipanchal13@gmail.com
 
